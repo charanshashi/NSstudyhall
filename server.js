@@ -30,7 +30,7 @@ const mclient=require('mongodb').MongoClient
 
 mclient
   .connect(
-    "mongodb+srv://charanshashi029:charanshashi029@faculty-management-port.riopb7t.mongodb.net/?retryWrites=true&w=majority&appName=faculty-management-portal"
+    "mongodb+srv://charanshashi029:Cherry1693@faculty-management-port.riopb7t.mongodb.net/?retryWrites=true&w=majority&appName=faculty-management-portal"
   )
   .then((dbRef) => {
     const dbObj = dbRef.db("nsstudyhall");
