@@ -1,0 +1,31 @@
+/* Allocation.css */
+.form-container {
+  padding: 20px;
+}
+
+.form-heading {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.card {
+  border-radius: 0.5rem;
+}
+
+.card-body {
+  padding: 2rem;
+}
+
+.submit-button {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.submit-button:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}

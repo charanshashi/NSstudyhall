@@ -1,0 +1,53 @@
+.all-students-container {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.main-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  color: #343a40;
+}
+
+.floor-container {
+  margin-bottom: 40px;
+}
+
+.floor-title {
+  font-size: 1.75rem;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.student-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #333;
+  color: #fff;
+}
+.student-table th,
+.student-table td {
+  border: 2px solid #dee2de;
+  vertical-align: middle;
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.student-table td {
+  background-color: #ffffff;
+  color: #495057;
+}
+
+.student-row:hover {
+  background-color: #e9ecef;
+  cursor: pointer;
+}
+
+.no-data {
+  text-align: center;
+  color: #6c757d;
+  padding: 20px;
+}

@@ -1,0 +1,16 @@
+// floors=[1,2,3]
+// eachfloor={
+//     1:cabinno,
+//     2:name ,
+//     3:dateofjoining ,
+//     4:Number,
+//     5:feepaidthismonth{
+//         months:6,
+//     },
+// };
+// details={
+//     1:remarks,
+//     2:totalmonthspayment,
+//     3:HostAddress,
+//     4:cabinschamged
+// }
