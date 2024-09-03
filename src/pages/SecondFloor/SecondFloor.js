@@ -170,24 +170,6 @@ function SecondFloor() {
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <th>Cabin No</th>
-            <th>Name</th>
-            <th>Phone</th>
-            <th>Payments</th>
-            <th>Date of Joining</th>
-            <th>Address</th>
-            <th>Actions</th>
-          </tr>
-          <tr>
-            <th>Cabin No</th>
-            <th>Name</th>
-            <th>Phone</th>
-            <th>Payments</th>
-            <th>Date of Joining</th>
-            <th>Address</th>
-            <th>Actions</th>
-          </tr>
           {data.map((item) => (
             <tr key={item._id}>
               <td>{item.cabinNo}</td>
